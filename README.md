@@ -8,7 +8,7 @@
 
 ## Présentation
 
-Notre mission était d'intégrer la maquette du site depuis les une image et de rendre ce site responsive.
+Notre mission était d'intégrer la maquette du site depuis une image et de rendre ce site responsive.
 
 Nous avions des consignes à respecter, un cahier des charges étape par étape afin de rendre le site un peu plus dynamique en CSS.
 
