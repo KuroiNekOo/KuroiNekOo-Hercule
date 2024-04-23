@@ -4,7 +4,7 @@
 
 ## En ligne
 
-<a href="https://kuroinekoo.github.io/KuroiNekOo-Hercule/"><h3>Les 12 travaux d'Hercule</h3></a>
+<a href="https://kuroinekoo.github.io/KuroiNekOo-Hercule/"><strong>Les 12 travaux d'Hercule</strong></a>
 
 ## Présentation
 
